@@ -1,10 +1,16 @@
 package vyshnavi.com.mavenjava;
 
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertTrue;
+
 /**
- * Hello world!
+ * Unit test for simple App.
  */
-public class App {
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
+public class AppTest {
+
+    @Test
+    public void shouldAnswerWithTrue() {
+        assertTrue(true);
     }
 }
