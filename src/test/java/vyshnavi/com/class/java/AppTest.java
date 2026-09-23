@@ -1,4 +1,4 @@
-package vyshnavi.com.class.java;
+package vyshnavi.com.class.mavenjava;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
