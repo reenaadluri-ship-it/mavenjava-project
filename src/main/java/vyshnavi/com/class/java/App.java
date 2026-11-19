@@ -1,4 +1,4 @@
-package vyshnavi.com.mavenjava;
+package vyshnavi.com.java;
 
 /**
  * Hello world!
